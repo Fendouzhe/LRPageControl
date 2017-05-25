@@ -2,8 +2,8 @@
 //  LRLineLayer.m
 //  LRPageControl
 //
-//  Created by Andy on 16/3/28.
-//  Copyright © 2016年 Andy. All rights reserved.
+//  Created by Leilurong on 16/3/28.
+//  Copyright © 2016年 Leilurong. All rights reserved.
 //
 
 #import "LRLineLayer.h"
